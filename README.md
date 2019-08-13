@@ -1,2 +1,2 @@
 # gulp-ui5-cachebuster-v2
-Fixed Windows path bug for gulp-ui5-cachebuster
+Fixes Windows path bug for https://www.npmjs.com/package/gulp-ui5-cachebuster
