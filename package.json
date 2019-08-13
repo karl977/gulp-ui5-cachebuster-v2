@@ -1,0 +1,24 @@
+{
+  "name": "@karl977/gulp-ui5-cachebuster",
+  "version": "0.1.1",
+  "description": "Create a cachebuster folder and json for SAPUI5 / OpenUI5.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karl977/gulp-ui5-cachebuster-v2.git"
+  },
+  "author": "Jorg Thuijls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karl977/gulp-ui5-cachebuster-v2/issues"
+  },
+  "homepage": "https://github.com/karl977/gulp-ui5-cachebuster-v2#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3",
+    "normalize-path": "^3.0.0"
+  }
+}
