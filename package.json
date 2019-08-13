@@ -1,6 +1,6 @@
 {
   "name": "@karl977/gulp-ui5-cachebuster",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Create a cachebuster folder and json for SAPUI5 / OpenUI5.",
   "main": "index.js",
   "scripts": {
